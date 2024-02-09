@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from typing import Union
 
 class DuckDuckGoGateway:
+    """Gateway to DuckDuckGo search engine"""
     url = "https://duckduckgo.com/html/"
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:84.0) Gecko/20100101 Firefox/84.0",
