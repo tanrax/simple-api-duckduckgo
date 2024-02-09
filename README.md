@@ -55,3 +55,9 @@ docker compose up
 - [ ] Param region
 - [ ] Param time
 - [ ] Pagination
+
+## Nerd stuff 🤓
+
+- Language: Python
+- Architecture: Clean architecture
+- Libraries: FastAPI, requests, beautifulsoup4, uvicorn and pytest.
